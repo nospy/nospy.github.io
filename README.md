@@ -1,5 +1,5 @@
 # nospy.github.io
-nospy.github.io
+
 ====================
 
 ## Hello world!
@@ -7,10 +7,10 @@ nospy.github.io
 This is my first try at github!
 
 My Github user page is at: 
-https://github.com/nspy
+https://github.com/nospy
 
 My Github Pages repo can be found at:  
-https://github.com/nspy/nspy.github.io/
+https://github.com/nospy/nospy.github.io/
 
 And, soon, you can see my customized homepage at:
 
